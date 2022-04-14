@@ -1,4 +1,4 @@
-﻿# python_visualization
+﻿## Python visualization training
 
 # Task #1 - Bubble visualization
 
