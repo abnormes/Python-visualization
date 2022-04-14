@@ -4,4 +4,4 @@
 Implementation a visualization of the bubble sort algorithm for a numeric array.
 
 Result:
-![image](https://user-images.githubusercontent.com/36714810/163471471-b8ec5e02-0147-4c95-b12d-079955a1bcce.png)
+![image](https://user-images.githubusercontent.com/36714810/163472508-4ae63e8f-77a6-4677-ba52-ffc7d0493b1d.png)
