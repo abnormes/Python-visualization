@@ -1,7 +1,7 @@
 # Python visualization training
 
 ## Task #1 - Bubble visualization
-Implementation a visualization of the bubble sort algorithm for a numeric array.
+Implementation a visualization of the bubble sort algorithm for a numeric array.  
 For a visualization using tkinter library.
 
 Intermediate result (for 1000 elements):
